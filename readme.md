@@ -21,8 +21,7 @@ A video of the project can be found [here](https://www.youtube.com/watch?v=0ZRx7
 
 [![Watch the video](https://img.youtube.com/vi/0ZRx7C7gTdg/maxresdefault.jpg)](https://www.youtube.com/watch?v=0ZRx7C7gTdg)
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0ZRx7C7gTdg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 More upgrades to the project are coming soon. Stay tuned!
-
-```
-```
